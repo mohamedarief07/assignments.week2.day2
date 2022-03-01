@@ -43,6 +43,8 @@ public class DeleteLead {
 			System.out.println("This case is FAILED");
 		}
 		driver.close();	
+		
+		System.out.println("Assignment 02.4 has been completed successfully");
 	
 	}
 }
