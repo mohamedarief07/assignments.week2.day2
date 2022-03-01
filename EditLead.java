@@ -52,6 +52,8 @@ public class EditLead {
 			System.out.println("This case is FAILED");
 		}
 		driver.close();	
+		
+		System.out.println("Assignment 02.2 has been completed successfully");
 	
 		
 
