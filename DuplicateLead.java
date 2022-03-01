@@ -52,6 +52,7 @@ public class DuplicateLead {
 			System.out.println("This case is FAILED");
 		}
 		driver.close();	
+		System.out.println("Assignment 02.3 has been completed successfully");
 			
 }
 }
