@@ -45,6 +45,8 @@ public static void main(String[] args) {
 	driver.findElement(By.id("updateContactForm_importantNote")).sendKeys("Added the Important Note while updating");
 	driver.findElement(By.xpath("(//input[@class='smallSubmit'])[1]")).click();
 	System.out.println("The Title of Resulting Page is " +driver.getTitle());
+	
+	System.out.println("Assignment 02.1 has been completed successfully");
 	}
 
 }
