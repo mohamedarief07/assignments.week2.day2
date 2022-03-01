@@ -23,7 +23,7 @@ public class Assignment3Acme {
 		driver.findElement(By.linkText("Log Out")).click();
 		Thread.sleep(2000);
 		driver.close();
-		System.out.println("Assignment:3 has been completed sucessfully");
+		System.out.println("Assignment:3 has been completed successfully");
 
 	}
 
